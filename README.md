@@ -5,7 +5,7 @@
 > Projeto acadêmico desenvolvido para a disciplina de **Gestão e Qualidade de Software** — Centro Universitário UNA.
 
 ![Status](https://img.shields.io/badge/status-especifica%C3%A7%C3%A3o-yellow)
-![Licença](https://img.shields.io/badge/licença-acadêmica-lightgrey)
+![Licença](https://img.shields.io/badge/licença-MIT-lightgrey)
 
 ---
 
